@@ -13,6 +13,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * SWE 202 - homework 2
  * id - B211202801
  * Tomas Halama
+ * https://github.com/nulam/SoftwareVerificationAndValidation
  */
 class CalculatorTest {
 
